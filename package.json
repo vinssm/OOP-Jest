@@ -1,0 +1,29 @@
+{
+  "name": "rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.0.3"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinssm/OOP-Jest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vinssm/OOP-Jest/issues"
+  },
+  "homepage": "https://github.com/vinssm/OOP-Jest#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
